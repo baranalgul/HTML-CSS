@@ -1,0 +1,40 @@
+a{
+    color:yellow;
+}
+img, input{
+    width: 400px;
+} 
+ input{
+    width: 400px;
+} 
+#apple{
+    text-align: center;
+    background-color:bisque;
+    height:100vh;
+}
+#apple h2{
+    font-size: 58px;
+}
+#apple p{
+    font-size: 28px;
+} 
+#banner{
+    height: 50vh;
+    background-image:url('../img/1429-x-612-grafik-tasarim-01.webp');
+    background-repeat: no-repeat;
+    /* background: url('https://www.aribilgi.com/wp-content/uploads/2021/01/1429-x-612-yazilim-uzmanlig%CC%86i-01.jpg'); */
+    background-color:bisque;
+    background-size:cover;
+    background-position:center center;
+    background-attachment: fixed;
+}
+
+button {
+       background-color:red;
+       color:yellow;
+       }
+
+button:hover {
+       background-color:yellow;
+       color:red;
+       }
