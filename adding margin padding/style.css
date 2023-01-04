@@ -1,0 +1,41 @@
+.box1{
+    background-color: bisque;
+    width: 25%;
+    float:left;
+    text-align: center;
+    padding:25px;
+    /* margin-right:20px; */
+}
+.box2{
+    background-color: lightgreen;
+    width: 25%;
+    float:left;
+    text-align: center;
+    margin:0px 40px;
+    /* margin-right:20px; */
+    padding:25px;
+}
+.box3{
+    background-color: aliceblue;
+    width: 25%;
+    float:left;
+    text-align: center;
+    padding:25px;
+    transition:.7s;
+  
+    
+    
+}
+.box3:hover{
+    background-color:#ff0000;
+    color:#fff;
+    font-size:20px;
+    
+    
+    
+}
+/* .boxs{
+    width: 25%;
+    float:left;
+    text-align: center;
+} */
