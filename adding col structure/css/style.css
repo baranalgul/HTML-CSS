@@ -7,6 +7,6 @@ button{
     transition: 0.7;
 }
 button:hover{
-    background-color:rgb(53, 4, 133);
+    background-color:rgb(53, 4, 133); 
     
 }
